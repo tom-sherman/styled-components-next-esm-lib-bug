@@ -2,10 +2,6 @@
   "name": "button",
   "type": "module",
   "source": "src/button.js",
-  "exports": {
-    "require": "./dist/button.cjs",
-    "default": "./dist/button.modern.js"
-  },
   "main": "./dist/button.cjs",
   "module": "./dist/button.module.js",
   "unpkg": "./dist/button.umd.js",
